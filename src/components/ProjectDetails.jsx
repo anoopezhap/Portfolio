@@ -48,6 +48,14 @@ function ProjectDetails() {
                   {details[0].live}
                 </a>
               </div>
+              <div className="mt-6 p-4 bg-gray-100 rounded-lg">
+                <p className="text-sm text-gray-600">
+                  <span className="font-semibold">Disclaimer:</span> The above
+                  website is hosted for free, and during initial rendering, it
+                  may take some time for the page to load. Please be patient
+                  while the content loads.
+                </p>
+              </div>
             </div>
           </div>
         </div>
