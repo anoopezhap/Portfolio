@@ -28,7 +28,7 @@ export const data = [
     image: chat,
     details:
       "Welcome to Anoop's Chat, where conversations come alive! Built with Firebase and React, Anoop's Chat offers seamless communication between users.",
-    live: "https://yourrepairs.onrender.com",
+    live: "https://anoopschat.onrender.com",
   },
   {
     id: 4,
